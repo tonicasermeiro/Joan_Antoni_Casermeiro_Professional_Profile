@@ -25,3 +25,7 @@ I am a professional with over **5 years of experience** in industrial system mai
 I am open to new opportunities where I can apply my experience and knowledge to create value.  
 
 **Joan Antoni Casermeiro Cortinas**
+ 
+---
+
+[🔙 Return to my GitHub Profile](https://github.com/tonicasermeiro)
