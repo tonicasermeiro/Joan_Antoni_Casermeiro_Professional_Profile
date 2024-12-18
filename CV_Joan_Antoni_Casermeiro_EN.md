@@ -81,9 +81,13 @@ _2014 - 2016_
 
 ## **Certifications**  
 - **Certified Safety Pilot (ADIF)**  
-- **Basic Experience Course EASA LMA B1.1**  
+- **Basic Experience Course EASA LMA B1.1** 
 
 ---
 
 ## **Driver’s License**  
-- Category B  
+- Category B
+ 
+---
+
+[🔙 Return to my GitHub Profile](https://github.com/tonicasermeiro)
