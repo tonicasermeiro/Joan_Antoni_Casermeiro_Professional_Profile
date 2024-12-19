@@ -7,13 +7,13 @@
 
 <div align="center">
   
-### 📍 **Calonge i Sant Antoni, Catalonia, Spain**
+#### 📍 **Calonge i Sant Antoni, Catalonia, Spain**
 
 </div>
 
 <div align="center">
   
-### 📱 **+34 692 732 447**
+#### 📱 **+34 692 732 447**
 
 </div>
 
