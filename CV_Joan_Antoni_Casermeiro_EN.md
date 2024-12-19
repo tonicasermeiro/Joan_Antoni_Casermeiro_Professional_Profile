@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tonicasermeiro/Pictures/blob/30f4002819d959e5758da11186aa5267112f7f0a/IMG_1324_Nero%20AI_Compress_High.jpeg?raw=true" alt="Foto Profesional" width="200px">
+  <img src="https://github.com/tonicasermeiro/Pictures/blob/30f4002819d959e5758da11186aa5267112f7f0a/IMG_1324_Nero%20AI_Compress_High.jpeg?raw=true" alt="Professional Photo" width="200px">
 </div>
 
 # 🛠️ **Joan Antoni Casermeiro Cortinas**  
@@ -72,7 +72,11 @@ _2014 - 2016_
 ---
 
 ## **🛠️ Technical Skills**  
-- **💻 Software Development:** Java, Kotlin, SQL, MongoDB.  
+- **💻 Software Development:**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 - **🔧 Industrial Maintenance:** Mechanical, electromechanical, and railway signaling systems.  
 - **📈 Project Management:** Team coordination, regulatory compliance, problem-solving.  
 
