@@ -5,10 +5,15 @@
 # 🛠️ **Joan Antoni Casermeiro Cortinas**  
 **Railway and Aeronautical Maintenance Technician**  
 
+<div align="center">
 📍 **Calonge i Sant Antoni, Catalonia, Spain**  
-📞 **+34 692 732 447** | ✉️ [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com) toni.casermeiro@icloud.com  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro) tonicasermeiro
+</div>
+<div align="center">
+📞 **+34 692 732 447**
+</div>
 
+<div align="center">
+  
 ---
 
 ## **About Me**  
