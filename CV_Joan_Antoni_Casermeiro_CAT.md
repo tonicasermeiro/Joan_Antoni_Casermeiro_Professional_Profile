@@ -6,10 +6,14 @@
 **Tècnic de Manteniment Ferroviari i Aeronàutic**  
 
 <div align="center">
-  📍 Calonge i Sant Antoni, Catalunya, Espanya  
+  
+#### 📍 Calonge i Sant Antoni, Catalunya, Espanya
+  
 </div>
 <div align="center">
-  📞 +34 692 732 447
+  
+#### 📱 +34 692 732 447
+
 </div>
 
 <div align="center">
