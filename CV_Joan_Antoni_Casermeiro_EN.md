@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/tonicasermeiro/Pictures/blob/30f4002819d959e5758da11186aa5267112f7f0a/IMG_1324_Nero%20AI_Compress_High.jpeg?raw=true" alt="Foto Profesional" width="200px">
+</div>
+
+
 # 🛠️ **Joan Antoni Casermeiro Cortinas**  
 **Railway and Aeronautical Maintenance Technician**  
 
