@@ -6,10 +6,10 @@
 **Técnico de Mantenimiento Ferroviario y Aeronáutico**  
 
 <div align="center">
-📍 **Calonge i Sant Antoni, Cataluña, España**  
+# 📍 **Calonge i Sant Antoni, Cataluña, España**  
 </div>
 <div align="center">
-📞 **+34 692 732 447**
+# 📞 **+34 692 732 447**
 </div>
 
 <div align="center">
