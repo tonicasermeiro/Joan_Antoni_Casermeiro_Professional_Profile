@@ -2,13 +2,13 @@
 **Técnico de Mantenimiento Ferroviario y Aeronáutico**  
 
 📍 **Calonge i Sant Antoni, Cataluña, España**  
-📞 **+34 692 732 447** | ✉️ [toni.casermeiro@icloud.com](mailto:toni.casermeiro@icloud.com)  
-🔗 [LinkedIn: tonicasermeiro](https://www.linkedin.com/in/tonicasermeiro)  
+📞 **+34 692 732 447** | ✉️ [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
 
 ---
 
 ## **Perfil Profesional**  
-Profesional con más de **5 años de experiencia** en mantenimiento ferroviario, aeronáutico y automotriz. Especializado en sistemas de señalización, protocolos de seguridad y proyectos de infraestructura. Mi formación en **Desarrollo de Aplicaciones Multiplataforma** me permite integrar herramientas tecnológicas para la optimización de procesos industriales y la gestión de infraestructuras.  
+Profesional con más de **5 años de experiencia** en mantenimiento ferroviario, aeronáutico y automotriz. Especializado en **sistemas de señalización**, **protocolos de seguridad** y **gestión de proyectos de infraestructura**. Mi formación en **Desarrollo de Aplicaciones Multiplataforma** me permite integrar tecnologías innovadoras para la optimización de procesos industriales y la gestión de infraestructuras.
 
 ---
 
