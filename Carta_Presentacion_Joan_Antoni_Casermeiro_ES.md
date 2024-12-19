@@ -6,16 +6,18 @@
 ## **Técnico de Mantenimiento Ferroviario y Aeronáutico**  
 
 <div align="center">
-  📍 **Calonge i Sant Antoni, Cataluña, España**  
+  📍 Calonge i Sant Antoni, Cataluña, España
 </div>
 <div align="center">
-  📞 **+34 692 732 447**
+  📞 +34 692 732 447
 </div>
 
 <div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonicasermeiro)
   [![Email](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
+
 </div>
 
 ---
