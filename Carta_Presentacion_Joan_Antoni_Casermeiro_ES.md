@@ -19,22 +19,23 @@
 [![Email](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
 
 </div>
+  
 ---
 
 ## **Sobre mí**  
-Profesional con más de **5 años de experiencia** en el mantenimiento de sistemas industriales. Me especializo en la integración de tecnologías avanzadas en sectores **ferroviario, aeronáutico y automotriz**, optimizando procesos críticos y mejorando la seguridad operativa.
+Soy un profesional con más de **5 años de experiencia** en el mantenimiento de sistemas industriales, especializado en los sectores **ferroviario**, **aeronáutico** y **automotriz**. Mi formación combina una sólida experiencia técnica con un enfoque en la innovación y la mejora continua.
 
-### **Áreas de especialización**:
-- **Mantenimiento Ferroviario**: Supervisión de sistemas de señalización y gestión de protocolos de seguridad.
-- **Mantenimiento Aeronáutico**: Diagnóstico y reparación de sistemas mecánicos y eléctricos en aeronaves.
-- **Desarrollo de Software**: Aplicación de soluciones tecnológicas para la optimización de procesos industriales.
+### **Áreas de Especialización**:
+- **🚆 Mantenimiento Ferroviario**: Supervisión de sistemas de señalización y gestión de protocolos de seguridad.
+- **✈️ Mantenimiento Aeronáutico**: Diagnóstico y reparación de sistemas mecánicos y eléctricos en aeronaves.
+- **💻 Desarrollo de Software**: Aplicación de soluciones tecnológicas para optimizar procesos industriales.
 
 ### **Lo que puedo aportar**:
-- **Eficiencia y Seguridad**: Implementación de mejoras que optimizan el rendimiento de infraestructuras críticas.
-- **Soluciones Tecnológicas**: Desarrollo de herramientas innovadoras que aumentan la productividad y reducen los costos operativos.
-- **Trabajo en Equipo**: Coordinación efectiva de equipos multidisciplinares en proyectos complejos.
+- **⚙️ Eficiencia y Seguridad**: Implementación de mejoras que optimizan el rendimiento de infraestructuras críticas.
+- **💡 Soluciones Tecnológicas**: Desarrollo de herramientas innovadoras para aumentar la productividad y reducir los costos operativos.
+- **🤝 Trabajo en Equipo**: Coordinación efectiva de equipos multidisciplinares en proyectos complejos.
 
-Estoy buscando nuevas oportunidades para aplicar mis conocimientos y generar valor en empresas innovadoras.
+Estoy buscando nuevas oportunidades para aplicar mis habilidades y generar valor en empresas innovadoras.
 
 ---
 
