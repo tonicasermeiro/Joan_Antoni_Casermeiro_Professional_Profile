@@ -5,16 +5,25 @@
 # 🛠️ **Joan Antoni Casermeiro Cortinas**  
 **Técnico de Mantenimiento Ferroviario y Aeronáutico**  
 
+<div align="center">
 📍 **Calonge i Sant Antoni, Cataluña, España**  
-📞 **+34 692 732 447**  
-✉️ [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)  
-GitHub: [tonicasermeiro](https://github.com/tonicasermeiro)
+</div>
+<div align="center">
+📞 **+34 692 732 447**
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonicasermeiro)
+[![Email](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
+
+</div>
 
 ---
 
 ## **💼 Perfil Profesional**  
-Profesional con más de **5 años de experiencia** en **mantenimiento ferroviario**, **aeronáutico** y **automotriz**. Especializado en **sistemas de señalización**, **protocolos de seguridad** y **gestión de proyectos de infraestructura**. Mi formación en **Desarrollo de Aplicaciones Multiplataforma** me permite integrar tecnologías innovadoras para optimizar procesos industriales y la gestión de infraestructuras.
+Profesional con más de **5 años de experiencia** en el **mantenimiento ferroviario**, **aeronáutico** y **automotriz**. Especializado en **sistemas de señalización**, **protocolos de seguridad** y **gestión de proyectos de infraestructuras**. Mi formación en **Desarrollo de Aplicaciones Multiplataforma** me permite integrar tecnologías innovadoras para optimizar procesos industriales y la gestión de infraestructuras.
 
 ---
 
@@ -24,14 +33,14 @@ Profesional con más de **5 años de experiencia** en **mantenimiento ferroviari
 **UTE GTS MTO. LEBAFi | Hitachi Rail**  
 _Feb. 2024 - Actualidad_  
 - Mantenimiento y supervisión de sistemas ferroviarios en líneas de alta velocidad.  
-- Coordinación de equipos para asegurar la operatividad de infraestructuras críticas.  
-- Implementación de protocolos de seguridad según las normativas de ADIF.  
+- Coordinación de equipos para garantizar la operatividad de infraestructuras críticas.  
+- Implementación de protocolos de seguridad conforme a la normativa de ADIF.  
 
 ### **🚂 Supervisor de Obras Civiles Ferroviarias y Piloto de Seguridad (ADIF)**  
 **FCC Industrial**  
 _Nov. 2022 - Feb. 2024_  
-- Supervisión de proyectos para la renovación de catenarias y telecomunicaciones en Rodalies de Catalunya.  
-- Gestión de seguridad y cumplimiento normativo en proyectos de construcción ferroviaria.  
+- Supervisión de proyectos de renovación de catenarias y telecomunicaciones en Rodalies de Catalunya.  
+- Gestión de la seguridad y cumplimiento normativo en proyectos de construcción ferroviaria.  
 
 ### **🚉 Técnico de Señalización Ferroviaria y Piloto de Seguridad (ADIF)**  
 **Siemens**  
@@ -46,28 +55,28 @@ _Jun. 2019 - Mar. 2020_
 ### **🚗 Técnico de Mantenimiento Automotriz**  
 **Yamaha**  
 _May. 2017 - Sep. 2017_  
-- Reparación y optimización de motocicletas, incluyendo modelos de competición.  
+- Reparación y optimización de motocicletas, incluidos modelos de competición.  
 
 ---
 
-## **🎓 Formación Académica**  
+## **🎓 Formación**  
 
-### **📱 Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma**  
+### **📱 Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma**  
 **Institut Obert de Catalunya (IOC)**  
 _2024 - 2026_  
 - Diseño, desarrollo y mantenimiento de aplicaciones para plataformas móviles, web y de escritorio.  
-- Especialización en lenguajes como **Java, Kotlin y SQL**.  
+- Especialización en lenguajes como **Java**, **Kotlin** y **SQL**.  
 
-### **✈️ Ciclo Superior en Mantenimiento Aeromecánico**  
+### **✈️ Ciclo Formativo de Grado Superior en Mantenimiento Aeromecánico**  
 **Illa dels Banyols**  
 _2016 - 2019_  
 - Formación integral en sistemas mecánicos y eléctricos de aeronaves.  
 - Curso de Experiencia Básica (EASA LMA B1.1 y B2).  
 
-### **🚗 Ciclo Superior en Automoción**  
+### **🚗 Ciclo Formativo de Grado Superior en Automoción**  
 **Centre d’Estudis Roca**  
 _2014 - 2016_  
-- Diagnóstico y reparación de sistemas avanzados de automoción.  
+- Diagnóstico y reparación de sistemas automotrices avanzados.  
 
 ---
 
@@ -95,7 +104,7 @@ _2014 - 2016_
 
 ---
 
-## **🚗 Carnet de Conducir**  
+## **🚗 Permiso de Conducir**  
 - **Licencia Tipo B**  
 
 ---
