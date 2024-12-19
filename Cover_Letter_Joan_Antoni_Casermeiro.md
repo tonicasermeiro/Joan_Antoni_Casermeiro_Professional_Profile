@@ -2,30 +2,26 @@
 **Railway and Aeronautical Maintenance Technician**  
 
 📍 **Calonge i Sant Antoni, Catalonia, Spain**  
-📞 **+34 692 732 447** | ✉️ [toni.casermeiro@icloud.com](mailto:toni.casermeiro@icloud.com)  
-🔗 [LinkedIn: tonicasermeiro](https://www.linkedin.com/in/tonicasermeiro)
+📞 **+34 692 732 447** | ✉️ [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com) toni.casermeiro@icloud.com  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro) tonicasermeiro
 
 ---
 
 ## **About Me**  
+I am a professional with over **5 years of experience** in the maintenance of industrial systems, specializing in the **railway, aeronautical, and automotive sectors**. My background combines strong technical expertise with a focus on innovation and continuous improvement.
 
-I am a professional with over **5 years of experience** in industrial system maintenance, specializing in the **railway, aeronautical, and automotive sectors**. My career combines solid technical expertise with a focus on innovation and continuous improvement.  
+### **Areas of Specialization**:
+- **Railway Maintenance**: Supervision of signaling systems and management of safety protocols.
+- **Aeronautical Maintenance**: Diagnosis and repair of mechanical and electrical systems in aircraft.
+- **Software Development**: Application of technological solutions to optimize industrial processes.
 
-### **My Strengths:**  
-- **Technical Expertise:** Maintenance and supervision of **railway signaling systems**, management of **safety protocols**, and team coordination.  
-- **Innovation:** Training in **Multiplatform Application Development**, enabling me to integrate digital tools for process optimization.  
-- **Commitment:** Strong adaptability to demanding environments and efficient problem-solving skills.  
+### **What I Can Contribute**:
+- **Efficiency and Safety**: Implementation of improvements that optimize the performance of critical infrastructure.
+- **Technological Solutions**: Development of innovative tools to enhance productivity and reduce operational costs.
+- **Teamwork**: Effective coordination of multidisciplinary teams in complex projects.
 
-## **What I Offer**  
+I am seeking new opportunities to apply my skills and generate value in innovative companies.
 
-- **Efficiency and Safety:** Ensuring the proper functioning of critical infrastructures with a focus on safety and compliance.  
-- **Technological Solutions:** Developing innovative tools for managing and optimizing industrial systems.  
-- **Teamwork:** Effective coordination of multidisciplinary teams in complex projects.  
-
-I am open to new opportunities where I can apply my experience and knowledge to create value.  
-
-**Joan Antoni Casermeiro Cortinas**
- 
 ---
 
-[🔙 Return to my GitHub Profile](https://github.com/tonicasermeiro)
+[🔙 Return to my GitHub profile](https://github.com/tonicasermeiro)
