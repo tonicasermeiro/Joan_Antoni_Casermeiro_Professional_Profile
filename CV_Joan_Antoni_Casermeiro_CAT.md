@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://github.com/tonicasermeiro/Pictures/blob/30f4002819d959e5758da11186aa5267112f7f0a/IMG_1324_Nero%20AI_Compress_High.jpeg?raw=true" alt="Foto Professional" width="200px">
 </div>
@@ -131,4 +130,4 @@ _2014 - 2016_
 ---
 
 [🔙 Tornar al meu perfil de GitHub](https://github.com/tonicasermeiro)
-```​​​​​​​​​​​​​​​​
+```​​​​​
