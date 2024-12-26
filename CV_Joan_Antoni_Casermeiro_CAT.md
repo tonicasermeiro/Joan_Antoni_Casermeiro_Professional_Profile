@@ -130,4 +130,3 @@ _2014 - 2016_
 ---
 
 [🔙 Tornar al meu perfil de GitHub](https://github.com/tonicasermeiro)
-```​​​​​
