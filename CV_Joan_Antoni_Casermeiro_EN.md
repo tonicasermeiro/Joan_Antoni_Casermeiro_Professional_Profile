@@ -66,7 +66,7 @@ _May 2017 - Sep. 2017_
 
 ## **🎓 Education**  
 
-### **Higher Vocational Training Degree in Cross-Platform Applications Development**  
+### **📱 Higher Vocational Training Degree in Cross-Platform Applications Development**  
 **EQF Level 5 - Advanced Technician**  
 **Institut Obert de Catalunya (IOC), Spain**  
 _2024 - 2026_  
@@ -74,7 +74,7 @@ _2024 - 2026_
 - Core technologies: **Java, Kotlin, SQL, MongoDB**  
 - Equivalent to Associate Degree Level in Software Development  
 
-### **Higher Vocational Training Degree in Aircraft Maintenance**  
+### **🛩️ Higher Vocational Training Degree in Aircraft Maintenance**  
 **EQF Level 5 - Advanced Technician**  
 **Illa dels Banyols, Spain**  
 _2016 - 2019_  
@@ -82,7 +82,7 @@ _2016 - 2019_
 - Basic Experience Course (EASA LMA B1.1 and B2).  
 - Equivalent to Associate Degree Level in Aeronautical Engineering Technology  
 
-### **Higher Vocational Training Degree in Automotive Technology**  
+### **🚘 Higher Vocational Training Degree in Automotive Technology**  
 **EQF Level 5 - Advanced Technician**  
 **Centre d'Estudis Roca, Spain**  
 _2014 - 2016_  
