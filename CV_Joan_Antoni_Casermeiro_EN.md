@@ -43,7 +43,7 @@ Professional with over **5 years of experience** in **railway**, **aeronautical*
 
 ## **💼 Professional Experience**  
 
-### **🚆 Maintenance Technician and Safety Pilot (ADIF)**  
+### **🚆 Maintenance Technician, Railway Circulation Safety Pilot and Railway Work Supervisor (ADIF)**  
 **UTE GTS MTO. LEBAFi | Hitachi Rail**  
 _Feb. 2024 - Present_  
 - Maintenance and supervision of railway systems in high-speed lines.  
