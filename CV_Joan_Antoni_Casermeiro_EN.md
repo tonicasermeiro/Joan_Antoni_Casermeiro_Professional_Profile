@@ -119,7 +119,8 @@ _2014 - 2016_
 ---
 
 ## **📜 Certifications**  
-- **✅ Certified Safety Pilot (ADIF)**  
+- **✅ Railway Work Supervisor (ADIF)** 
+- **✅ Railway Circulation Safety Pilot (ADIF)**  
 - **✅ Basic Experience Course EASA LMA B1.1**  
 
 ---
