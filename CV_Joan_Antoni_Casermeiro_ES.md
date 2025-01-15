@@ -43,7 +43,7 @@ Profesional con más de **5 años de experiencia** en mantenimiento **ferroviari
 
 ## **💼 Experiencia Profesional**  
 
-### **🚆 Técnico de Mantenimiento y Piloto de Seguridad (ADIF)**  
+### **🚆 Técnico de Mantenimiento, Piloto de Seguridad Habilitado y Encargado de Trabajos (ADIF)**  
 **UTE GTS MTO. LEBAFi | Hitachi Rail**  
 _Feb. 2024 - Actualidad_  
 - Mantenimiento y supervisión de sistemas ferroviarios en líneas de alta velocidad.  
@@ -119,7 +119,8 @@ _2014 - 2016_
 ---
 
 ## **📜 Certificaciones**  
-- **✅ Piloto de Seguridad Homologado (ADIF)**  
+- **✅ Encargado de Trabajos (ADIF)** 
+- **✅ Piloto de Seguridad Habilitado (ADIF)**  
 - **✅ Curso de Experiencia Básica EASA LMA B1.1**  
 
 ---
